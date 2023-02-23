@@ -1,6 +1,6 @@
- <h3 align="left" >
+ <h1 align="left" >
   Bem Vindos ao Perfil<img src="https://media.giphy.com/media/aGJw0QaCx04Wk/giphy.gif" width="50"> <br>de Georges Ballister!<img align="center" src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50">
-</h3>
+</h1>
 
 
 <img width="165" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxZTdiMWZjYjU2MDEyODFiNjMwNmIwNTI2ODI5OGI4OGYzN2JlZiZjdD1z/x4unLoM3hApc2Cw5kO/giphy.gif">
@@ -17,11 +17,11 @@ class Programador{
 
 <div align="center">
 
-### <img width="50" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="About Me"> About Me
+## <img width="50" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="About Me"> About Me
 
 </div>
 
-<img width="45%" align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Carinha programandor"/>
+<img width="40%" align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Carinha programandor"/>
   
 <div align="left">
 
@@ -58,6 +58,7 @@ class Programador{
 
 </div>
 
+#
 
 <div align="center">
  
@@ -70,7 +71,7 @@ class Programador{
 
 <img align="right" width="20%" src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
 
-#### Connect With Me
+## Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-ballister-de-oliveira/)[![Guia do Mochileiro de TI](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/georgesb/Guia-do-Mochileiro-do-T-I-cabee65f307c41c4a8cfdc883dc62485)[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31a5uovlilgd26ivi3pov726gx7m?si=fb7504fdf93c41df)
 <br>
