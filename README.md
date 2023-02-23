@@ -69,9 +69,9 @@ class Programador{
 
 <div align="center" >
 
-<img align="right" width="20%" src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
-
 ## Connect With Me
+ 
+<img align="right" width="10%" src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-ballister-de-oliveira/)[![Guia do Mochileiro de TI](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/georgesb/Guia-do-Mochileiro-do-T-I-cabee65f307c41c4a8cfdc883dc62485)[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31a5uovlilgd26ivi3pov726gx7m?si=fb7504fdf93c41df)
 <br>
@@ -81,4 +81,4 @@ class Programador{
 
 </div>
 
-<img src="Cobrinha.svg">
+<img widht="100%" src="Cobrinha.svg">
