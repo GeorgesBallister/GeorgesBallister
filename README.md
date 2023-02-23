@@ -1,7 +1,9 @@
- <h1 align="center" >
- <img src="https://media.giphy.com/media/aGJw0QaCx04Wk/giphy.gif" width="50"> Hi my name is Georges Ballister and I love being a DEV!<img src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50">
-</h1>
+ <h3 align="left" >
+  Bem Vindos ao Perfil<img src="https://media.giphy.com/media/aGJw0QaCx04Wk/giphy.gif" width="50"> <br>de Georges Ballister!<img align="center" src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50">
+</h3>
 
+
+<img width="165" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxZTdiMWZjYjU2MDEyODFiNjMwNmIwNTI2ODI5OGI4OGYzN2JlZiZjdD1z/x4unLoM3hApc2Cw5kO/giphy.gif">
 ```Csharp
 class Programador{
     private string nome = "Georges";
@@ -12,33 +14,29 @@ class Programador{
 }
 ```
 
-
-<img src="https://cdn.dribbble.com/users/5291538/screenshots/13868549/media/6db385d79b47bb2e072ed456b9a46ff6.gif">
-
 <div align="center">
 
-
-## <img width="50" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="About Me"> About Me
+### <img width="50" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="About Me"> About Me
 
 </div>
 
-<img width="20%" align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif"/>
+<img width="45%" align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Carinha programandor"/>
   
-<div>
+<div align="left">
 
+<h4>Study:</h4>
 
 >👨‍💻💜 Computer Science Student (UNIFG)
 
 >💻🖤 Systems Analysis and Development Student (Senac/Porto Digital)
 
->❤️🎮 Passionate about game development and design!
+<h4>Objectives:</h4>
 
-</div>
+>❤️🎮 Learn about game development and design!
 
+<h4>Learn:</h4>
 
-
-
-<div style="display: inline_block" align="right">
+<div style="display: inline_block" align="left">
 
 <img  width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html5">
 
@@ -53,18 +51,23 @@ class Programador{
 <img  width="20px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" alt="Java">
 
 <img  width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin">
+<img width="20px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL">
 
 </div>
 
+</div>
+
+
 <div align="center">
  
-### My Git Status
-
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GeorgesBallister&show_icons=true&theme=midnight-purple" alt="Georges Ballister" />
+
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgesBallister&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div align="center" >
+
+<img align="right" width="20%" src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
 
 #### Connect With Me
 
@@ -72,5 +75,6 @@ class Programador{
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgesballister.profissional@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/georgesnotfound/)
 [![Doação](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=4GVGM3KWQWKKG)
 
-<img src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
 </div>
+
+<img src="Cobrinha.svg">
