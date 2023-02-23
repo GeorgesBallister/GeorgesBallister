@@ -73,7 +73,9 @@ class Programador{
 #### Connect With Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-ballister-de-oliveira/)[![Guia do Mochileiro de TI](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/georgesb/Guia-do-Mochileiro-do-T-I-cabee65f307c41c4a8cfdc883dc62485)[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31a5uovlilgd26ivi3pov726gx7m?si=fb7504fdf93c41df)
+<br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgesballister.profissional@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/georgesnotfound/)
+<br>
 [![Doação](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=4GVGM3KWQWKKG)
 
 </div>
