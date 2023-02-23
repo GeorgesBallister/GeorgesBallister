@@ -3,7 +3,7 @@
 </h1>
 
 
-<img width="165" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxZTdiMWZjYjU2MDEyODFiNjMwNmIwNTI2ODI5OGI4OGYzN2JlZiZjdD1z/x4unLoM3hApc2Cw5kO/giphy.gif">
+<img width="160" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxZTdiMWZjYjU2MDEyODFiNjMwNmIwNTI2ODI5OGI4OGYzN2JlZiZjdD1z/x4unLoM3hApc2Cw5kO/giphy.gif">
 
 ```Csharp
 class Programador{
