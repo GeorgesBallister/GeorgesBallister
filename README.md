@@ -9,7 +9,7 @@
 class Programador{
     private string nome = "Georges";
     private int idade = ??;
-    private string nacionality = "Pernambuco, Brasil";
+    private string nacionality = "São Paulo, Brasil";
     private string hobbies = "Play and develop games";
     private string hobbiesAdd1 = "Photography and Gym"
 }
