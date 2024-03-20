@@ -51,7 +51,6 @@ class Programador{
 
 <img  width="20px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" alt="Java">
 
-<img  width="20px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="Kotlin">
 <img width="20px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL">
 
 </div>
