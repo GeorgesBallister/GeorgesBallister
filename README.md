@@ -31,6 +31,8 @@ class Programador{
 
 >💻🖤 Systems Analysis and Development Student (Senac/Porto Digital)
 
+>💻📑 MBA Data Science and AI (Senac)
+
 <h4>Objectives:</h4>
 
 >❤️🎮 Learn about game development and design!
