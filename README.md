@@ -1,85 +1,138 @@
- <h1 align="left" >
-  Bem Vindos ao Perfil<img src="https://media.giphy.com/media/aGJw0QaCx04Wk/giphy.gif" width="50"> <br>de Georges Ballister!<img align="center" src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50">
-</h1>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4c1d95,100:7c3aed&height=230&section=header&text=Georges%20Ballister&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20CEO%20da%20LAY%20%7C%20Engenharia%20de%20Software%20%26%20IA&descSize=17&descAlignY=56&animation=fadeIn" alt="Georges Ballister — Desenvolvedor Full-Stack e CEO da LAY" />
 
+  <a href="https://www.linkedin.com/in/georges-ballister-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-Georges%20Ballister-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:georgesballister.profissional@gmail.com"><img src="https://img.shields.io/badge/Email-Contato%20profissional-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional" /></a>
+  <a href="https://github.com/GeorgesBallister?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=GeorgesBallister&label=VISITAS&color=7c3aed&style=for-the-badge" alt="Visualizações do perfil" />
+</div>
 
-<img width="150" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UxZTdiMWZjYjU2MDEyODFiNjMwNmIwNTI2ODI5OGI4OGYzN2JlZiZjdD1z/x4unLoM3hApc2Cw5kO/giphy.gif">
+## Olá, eu sou Georges.
 
-```Csharp
-class Programador{
-    private string nome = "Georges";
-    private int idade = ??;
-    private string nacionality = "São Paulo, Brasil";
-    private string hobbies = "Play and develop games";
-    private string hobbiesAdd1 = "Photography and Gym"
-}
-```
+Sou desenvolvedor **Full-Stack**, formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciência da Computação**. Construo produtos de ponta a ponta: interfaces, APIs, persistência, integrações, automações e soluções orientadas por dados e inteligência artificial.
+
+Meu trabalho combina visão de produto com engenharia. Gosto de entender o problema, definir contratos claros e entregar software simples de manter — sem abstrações vazias e sem tecnologia escolhida só por moda.
+
+> **Código claro. Arquitetura coerente. Documentação útil. Automação com propósito.**
+
+- 📍 Recife, Pernambuco, Brasil
+- 💼 Desenvolvedor Full-Stack e **CEO da LAY**
+- 🧠 Foco em engenharia de software, arquitetura, IA, dados e integrações
+- ✍️ Produzo conteúdo sobre tecnologia, desenvolvimento e organização do conhecimento
+- 🎮 Fora do código: games, anime, design, cultura geek e tecnologia
+
+## LAY
+
+> ### CEO da LAY
+>
+> A **LAY** é a minha empresa e uma parte central do que estou construindo profissionalmente. A identidade visual, o posicionamento, os projetos e os canais oficiais serão apresentados aqui em breve.
+
+## Stack técnica
 
 <div align="center">
-
-## <img width="50" align="center" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="About Me"> About Me
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,go,python,react,nodejs,express,flask,tailwind,vite,html,css,mysql,mongodb,docker,git,github,figma,postman&perline=11" alt="Tecnologias utilizadas por Georges Ballister" />
 </div>
 
-<img width="40%" align="right" src="https://media.giphy.com/media/YRMb6dd7zprS00JdGZ/giphy.gif" alt="Carinha programandor"/>
-  
-<div align="left">
+### Desenvolvimento
 
-<h4>Study:</h4>
+- **Back-end:** C#, .NET, Entity Framework Core, Node.js, Express, Python, Flask e APIs REST
+- **Front-end:** TypeScript, JavaScript, React, React Native, Vite, Tailwind CSS, HTML e CSS
+- **Linguagens em evolução contínua:** Go, C#, TypeScript, JavaScript e Python
 
->👨‍💻💜 Computer Science Student (UNIFG)
+### Dados, IA e infraestrutura
 
->💻🖤 Systems Analysis and Development Student (Senac/Porto Digital)
+- **Dados e Machine Learning:** Pandas, NumPy, scikit-learn, TensorFlow, Keras, Jupyter e Streamlit
+- **Bancos e armazenamento:** MySQL, SQLite, MongoDB, ClickHouse e MinIO
+- **Integrações e infraestrutura:** Docker, Kafka, Git, GitHub, Postman e Insomnia
+- **Produto e documentação:** Figma, Notion e Trello
 
->💻📑 MBA Data Science and AI (Senac)
+## Projetos em destaque
 
-<h4>Objectives:</h4>
-
->❤️🎮 Learn about game development and design!
-
-<h4>Learn:</h4>
-
-<div style="display: inline_block" align="left">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html5">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="Git">
-
-<img  width="20px" src="https://cdn-icons-png.flaticon.com/512/3291/3291669.png" alt="Java">
-
-<img width="20px" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL">
-
-</div>
-
-</div>
-
-#
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/frontCameras-APP">🌬️ Aeolus</a></h3>
+      <p>Interface de monitoramento de câmeras e eventos em tempo real, com visualização de anomalias e integração com API, MinIO e ClickHouse.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/Recife-Events-Aggregator">📍 Recife Events Aggregator</a></h3>
+      <p>Agregador de eventos com scraping, API, filtros, deduplicação, auditoria detalhada e persistência local.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>Puppeteer</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/Diagn-stico-de-C-ncer-de-Mama-com-Redes-Neurais-Multicamadas-MLP-">🧠 Classificação com MLP</a></h3>
+      <p>Estudo de Machine Learning para classificação de tumores, cobrindo preparação dos dados, treino, regularização e avaliação do modelo.</p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/API-DotNet-Base">⚙️ API .NET Base</a></h3>
+      <p>Base de estudo para construção de APIs em C# com persistência relacional, ORM e ambiente conteinerizado.</p>
+      <p><code>C#</code> <code>.NET</code> <code>EF Core</code> <code>MySQL</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/API-Flask-PosGraduacao">🐍 API Flask</a></h3>
+      <p>API RESTful integrada a SQLite e a uma interface desktop, desenvolvida no contexto da pós-graduação.</p>
+      <p><code>Python</code> <code>Flask</code> <code>SQLite</code> <code>Tkinter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/Desafio-XMX-Guaraherb">🌿 GaRAHERB</a></h3>
+      <p>Landing page responsiva criada para um desafio front-end, com experiência completa disponível em produção.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> · <a href="https://guaraherb.netlify.app/">Ver projeto</a></p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
- 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GeorgesBallister&show_icons=true&theme=midnight-purple" alt="Georges Ballister" />
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgesBallister&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/GeorgesBallister?tab=repositories"><strong>Explorar todos os meus repositórios →</strong></a>
 </div>
 
-<div align="center" >
+## Formação e capacitação
 
-## Connect With Me
- 
-<img align="right" width="10%" src="https://media.giphy.com/media/rdQNz4dutSII8/giphy.gif" alt="Espadinha do Mine">
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac / Porto Digital · concluído
+- 💻 **Ciência da Computação** — UNIFG · em andamento
+- 📊 **MBA em Data Science e Inteligência Artificial** — Centro Universitário Senac
+- 🚀 **Discover: Especializar** — Rocketseat
+- 🧩 Capacitações em **Modelagem de Software** e **Programação de Soluções Computacionais** — UNIFG
+- 🌎 Português nativo e inglês intermediário
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georges-ballister-de-oliveira/)[![Guia do Mochileiro de TI](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/georgesb/Guia-do-Mochileiro-do-T-I-cabee65f307c41c4a8cfdc883dc62485)[![Spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31a5uovlilgd26ivi3pov726gx7m?si=fb7504fdf93c41df)
-<br>
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgesballister.profissional@gmail.com)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/georgesnotfound/)
-<br>
-[![Doação](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=4GVGM3KWQWKKG)
+Continuo estudando por meio de projetos, documentação oficial e plataformas como [Rocketseat](https://app.rocketseat.com.br/me/georges-ballister-00588) e [Alura](https://cursos.alura.com.br/user/georgesballister-profissional).
 
+## Conteúdo e ideias
+
+Também escrevo sobre fundamentos da internet, desenvolvimento web, CSS, organização de conhecimento e conceitos de engenharia de software. Os artigos e publicações estão reunidos no meu [LinkedIn](https://www.linkedin.com/in/georges-ballister-de-oliveira/recent-activity/articles/).
+
+## Laboratório pessoal
+
+Uso um ambiente preparado para desenvolvimento, multitarefa, design e experiências com IA local:
+
+`Windows 11 Pro` · `Ryzen 9 9900X` · `RTX 5070 Ti 16 GB` · `32 GB RAM` · `~2,8 TB SSD` · `3440 × 1440 @ 165 Hz`
+
+## GitHub em números
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeorgesBallister&theme=github_dark" alt="Estatísticas do GitHub de Georges Ballister" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeorgesBallister&theme=github_dark" alt="Repositórios por linguagem" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeorgesBallister&theme=github_dark" alt="Detalhes das contribuições no GitHub" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgesBallister&theme=github-dark-blue&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
 </div>
 
-<img widht="100%" src="Cobrinha.svg">
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgesBallister&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+</div>
+
+## Vamos construir algo?
+
+Estou aberto a conversar sobre desenvolvimento de software, produtos digitais, IA, automação, projetos e boas ideias.
+
+<div align="center">
+  <a href="mailto:georgesballister.profissional@gmail.com"><strong>Enviar e-mail</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/georges-ballister-de-oliveira/"><strong>Conectar no LinkedIn</strong></a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:4c1d95,100:111827&height=120&section=footer" alt="Rodapé" />
