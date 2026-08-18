@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:4c1d95,100:7c3aed&height=230&section=header&text=Georges%20Ballister&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%7C%20CEO%20da%20LAY%20%7C%20Engenharia%20de%20Software%20%26%20IA&descSize=17&descAlignY=56&animation=fadeIn" alt="Georges Ballister — Desenvolvedor Full-Stack e CEO da LAY" />
+  <img width="100%" src="./assets/profile-header.svg" alt="Georges Ballister — Desenvolvedor Full-Stack e CEO da LAY" />
 
   <a href="https://www.linkedin.com/in/georges-ballister-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-Georges%20Ballister-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:georgesballister.profissional@gmail.com"><img src="https://img.shields.io/badge/Email-Contato%20profissional-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional" /></a>
@@ -30,14 +30,14 @@ Meu trabalho combina visão de produto com engenharia. Gosto de entender o probl
 ## Stack técnica
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,go,python,react,nodejs,express,flask,tailwind,vite,html,css,mysql,mongodb,docker,git,github,figma,postman&perline=11" alt="Tecnologias utilizadas por Georges Ballister" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,react,nodejs,express,flask,tailwind,vite,html,css,mysql,mongodb,docker,git,github,figma,postman&perline=10" alt="Tecnologias utilizadas por Georges Ballister" />
 </div>
 
 ### Desenvolvimento
 
 - **Back-end:** C#, .NET, Entity Framework Core, Node.js, Express, Python, Flask e APIs REST
 - **Front-end:** TypeScript, JavaScript, React, React Native, Vite, Tailwind CSS, HTML e CSS
-- **Linguagens em evolução contínua:** Go, C#, TypeScript, JavaScript e Python
+- **Stack principal:** C#, .NET, TypeScript, JavaScript, Node.js e Python
 
 ### Dados, IA e infraestrutura
 
@@ -51,26 +51,26 @@ Meu trabalho combina visão de produto com engenharia. Gosto de entender o probl
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/GeorgesBallister/frontCameras-APP">🌬️ Aeolus</a></h3>
+      <h3><a href="https://github.com/GeorgesBallister/frontCameras-APP">🌬️ Aeolus — Front-end</a></h3>
       <p>Interface de monitoramento de câmeras e eventos em tempo real, com visualização de anomalias e integração com API, MinIO e ClickHouse.</p>
       <p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/GeorgesBallister/Desafio-Aeolus">⚙️ Desafio Aeolus — Back-end</a></h3>
+      <p>Pipeline distribuído para ingestão e processamento de eventos de câmeras, com API REST, persistência especializada e testes automatizados.</p>
+      <p><code>Node.js</code> <code>Kafka</code> <code>MinIO</code> <code>ClickHouse</code> <code>MongoDB</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GeorgesBallister/Recife-Events-Aggregator">📍 Recife Events Aggregator</a></h3>
       <p>Agregador de eventos com scraping, API, filtros, deduplicação, auditoria detalhada e persistência local.</p>
       <p><code>Node.js</code> <code>Express</code> <code>Puppeteer</code> <code>JavaScript</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/GeorgesBallister/Diagn-stico-de-C-ncer-de-Mama-com-Redes-Neurais-Multicamadas-MLP-">🧠 Classificação com MLP</a></h3>
       <p>Estudo de Machine Learning para classificação de tumores, cobrindo preparação dos dados, treino, regularização e avaliação do modelo.</p>
       <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>scikit-learn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/GeorgesBallister/API-DotNet-Base">⚙️ API .NET Base</a></h3>
-      <p>Base de estudo para construção de APIs em C# com persistência relacional, ORM e ambiente conteinerizado.</p>
-      <p><code>C#</code> <code>.NET</code> <code>EF Core</code> <code>MySQL</code> <code>Docker</code></p>
     </td>
   </tr>
   <tr>
@@ -134,5 +134,3 @@ Estou aberto a conversar sobre desenvolvimento de software, produtos digitais, I
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/georges-ballister-de-oliveira/"><strong>Conectar no LinkedIn</strong></a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:4c1d95,100:111827&height=120&section=footer" alt="Rodapé" />
