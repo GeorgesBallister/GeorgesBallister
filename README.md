@@ -1,6 +1,6 @@
-<div align="center">
-  <img width="100%" src="./assets/profile-header.svg" alt="Georges Ballister — Desenvolvedor Full-Stack e CEO da LAY" />
+<h1 align="center">Georges Ballister</h1>
 
+<div align="center">
   <a href="https://www.linkedin.com/in/georges-ballister-de-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-Georges%20Ballister-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:georgesballister.profissional@gmail.com"><img src="https://img.shields.io/badge/Email-Contato%20profissional-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail profissional" /></a>
   <a href="https://github.com/GeorgesBallister?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios no GitHub" /></a>
@@ -31,6 +31,8 @@ Meu trabalho combina visão de produto com engenharia. Gosto de entender o probl
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,react,nodejs,express,flask,tailwind,vite,html,css,mysql,mongodb,docker,git,github,figma,postman&perline=10" alt="Tecnologias utilizadas por Georges Ballister" />
+  <br />
+  <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="draw.io" />
 </div>
 
 ### Desenvolvimento
@@ -44,7 +46,7 @@ Meu trabalho combina visão de produto com engenharia. Gosto de entender o probl
 - **Dados e Machine Learning:** Pandas, NumPy, scikit-learn, TensorFlow, Keras, Jupyter e Streamlit
 - **Bancos e armazenamento:** MySQL, SQLite, MongoDB, ClickHouse e MinIO
 - **Integrações e infraestrutura:** Docker, Kafka, Git, GitHub, Postman e Insomnia
-- **Produto e documentação:** Figma, Notion e Trello
+- **Produto e documentação:** Figma, draw.io, Notion e Trello
 
 ## Projetos em destaque
 
