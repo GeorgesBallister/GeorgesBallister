@@ -9,23 +9,13 @@
 
 ## Olá, eu sou Georges.
 
-Sou desenvolvedor **Full-Stack**, formado em **Análise e Desenvolvimento de Sistemas** e estudante de **Ciência da Computação**. Construo produtos de ponta a ponta: interfaces, APIs, persistência, integrações, automações e soluções orientadas por dados e inteligência artificial.
+**Desenvolvedor Full-Stack. Engenheiro Criativo.**
 
-Meu trabalho combina visão de produto com engenharia. Gosto de entender o problema, definir contratos claros e entregar software simples de manter — sem abstrações vazias e sem tecnologia escolhida só por moda.
-
-> **Código claro. Arquitetura coerente. Documentação útil. Automação com propósito.**
-
-- 📍 Recife, Pernambuco, Brasil
-- 💼 Desenvolvedor Full-Stack e **CEO da LAY**
-- 🧠 Foco em engenharia de software, arquitetura, IA, dados e integrações
-- ✍️ Produzo conteúdo sobre tecnologia, desenvolvimento e organização do conhecimento
-- 🎮 Fora do código: games, anime, design, cultura geek e tecnologia
+📍 Brasil
 
 ## LAY
 
-> ### CEO da LAY
->
-> A **LAY** é a minha empresa e uma parte central do que estou construindo profissionalmente. A identidade visual, o posicionamento, os projetos e os canais oficiais serão apresentados aqui em breve.
+> **Mente por trás da LAY.**
 
 ## Stack técnica
 
@@ -93,20 +83,27 @@ Meu trabalho combina visão de produto com engenharia. Gosto de entender o probl
   <a href="https://github.com/GeorgesBallister?tab=repositories"><strong>Explorar todos os meus repositórios →</strong></a>
 </div>
 
-## Formação e capacitação
+## Formação
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** — Centro Universitário Senac / Porto Digital · concluído
-- 💻 **Ciência da Computação** — UNIFG · em andamento
-- 📊 **MBA em Data Science e Inteligência Artificial** — Centro Universitário Senac
-- 🚀 **Discover: Especializar** — Rocketseat
-- 🧩 Capacitações em **Modelagem de Software** e **Programação de Soluções Computacionais** — UNIFG
-- 🌎 Português nativo e inglês intermediário
-
-Continuo estudando por meio de projetos, documentação oficial e plataformas como [Rocketseat](https://app.rocketseat.com.br/me/georges-ballister-00588) e [Alura](https://cursos.alura.com.br/user/georgesballister-profissional).
-
-## Conteúdo e ideias
-
-Também escrevo sobre fundamentos da internet, desenvolvimento web, CSS, organização de conhecimento e conceitos de engenharia de software. Os artigos e publicações estão reunidos no meu [LinkedIn](https://www.linkedin.com/in/georges-ballister-de-oliveira/recent-activity/articles/).
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎓 Análise e Desenvolvimento de Sistemas</h3>
+      <p>Centro Universitário Senac / Porto Digital</p>
+      <p><strong>✅ Concluído</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💻 Ciência da Computação</h3>
+      <p>UNIFG</p>
+      <p><strong>✅ Concluído</strong></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📊 MBA em Data Science e Inteligência Artificial</h3>
+      <p>Centro Universitário Senac</p>
+      <p><strong>✅ Concluído</strong></p>
+    </td>
+  </tr>
+</table>
 
 ## Laboratório pessoal
 
@@ -114,7 +111,7 @@ Uso um ambiente preparado para desenvolvimento, multitarefa, design e experiênc
 
 `Windows 11 Pro` · `Ryzen 9 9900X` · `RTX 5070 Ti 16 GB` · `32 GB RAM` · `~2,8 TB SSD` · `3440 × 1440 @ 165 Hz`
 
-## GitHub em números
+## Estatísticas
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeorgesBallister&theme=github_dark" alt="Estatísticas do GitHub de Georges Ballister" />
@@ -127,9 +124,7 @@ Uso um ambiente preparado para desenvolvimento, multitarefa, design e experiênc
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=GeorgesBallister&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
 </div>
 
-## Vamos construir algo?
-
-Estou aberto a conversar sobre desenvolvimento de software, produtos digitais, IA, automação, projetos e boas ideias.
+## Contato
 
 <div align="center">
   <a href="mailto:georgesballister.profissional@gmail.com"><strong>Enviar e-mail</strong></a>
