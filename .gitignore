@@ -1,0 +1,9 @@
+# Only track GIFs in assets
+assets/*
+!assets/*.gif
+
+# Tooling and local preview
+motion-studio/
+preview.html
+.vscode/
+node_modules/
